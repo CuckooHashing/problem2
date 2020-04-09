@@ -1,0 +1,7 @@
+D:\Facultate\Stuff\problem2\problem2\bin\Debug\problem2.exe.config
+D:\Facultate\Stuff\problem2\problem2\bin\Debug\problem2.exe
+D:\Facultate\Stuff\problem2\problem2\bin\Debug\problem2.pdb
+D:\Facultate\Stuff\problem2\problem2\obj\Debug\problem2.csprojAssemblyReference.cache
+D:\Facultate\Stuff\problem2\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+D:\Facultate\Stuff\problem2\problem2\obj\Debug\problem2.exe
+D:\Facultate\Stuff\problem2\problem2\obj\Debug\problem2.pdb
